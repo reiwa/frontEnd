@@ -1,0 +1,20 @@
+# project
+.mLab
+
+# node
+node_modules
+
+# PHPStorm
+.idea
+
+# MacOS
+.DS_Store
+
+# other
+*.swp
+*.log
+*.log.*
+*.zip
+*~
+
+# project
